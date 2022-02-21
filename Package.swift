@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "EAPTEKAFrameworks",
+    name: "Frameworks",
     platforms: [
         .iOS(.v12)
     ],
