@@ -12,10 +12,10 @@ let package = Package(
             targets: ["FBSDKCoreKit"]),
         .library(
             name: "FBSDKCoreKit_Basics",
-            targets: ["FBSDKCoreKit"]),
+            targets: ["FBSDKCoreKit_Basics"]),
         .library(
             name: "FBAEMKit",
-            targets: ["FBSDKCoreKit"]),
+            targets: ["FBAEMKit"]),
         .library(
             name: "Realm",
             targets: ["Realm"]),
